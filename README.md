@@ -18,7 +18,7 @@
 </br>
 <p>- 📚 Estudei Desenvolvimento de Software na <a href="https://www.betrybe.com/"><b>Trybe</b></a></p>
 <p>- 💻 Gosto de assistir séries e animes, ler e jogar videogame</p>
-<p>- 🥋 Atualmente sou faixa branca de Taekwondo</p>
+<p>- 🥋 Atualmente sou faixa amarela de Taekwondo</p>
 <p>- 💭 Sou curiosa, detalhista e perseverante</p>
 <p>- 🗺️ Fun fact: adoro aprender novos idiomas</p>
 
