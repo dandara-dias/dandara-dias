@@ -18,7 +18,7 @@
 </br>
 <p>- 📚 Estudando Ciência de Dados na <a href="https://www.xpeducacao.com.br/graduacao"><b>Faculdade XP</b></a></p>
 <p>- 💻 Gosto de assistir séries e animes, ler e jogar videogame</p>
-<p>- 🥋 Atualmente sou faixa amarela-ponta verde de Taekwondo</p>
+<p>- 🥋 Atualmente sou faixa verde de Taekwondo</p>
 <p>- 💭 Sou curiosa, detalhista e organizada</p>
 <p>- 🗺️ Fun fact: adoro aprender novos idiomas, atualmente estou estudando Libras</p>
 
